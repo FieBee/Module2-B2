@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai2.iml" filepath="$PROJECT_DIR$/.idea/Bai2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Is-prime/Is-prime.iml" filepath="$PROJECT_DIR$/Is-prime/Is-prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Money/Money.iml" filepath="$PROJECT_DIR$/Money/Money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greate-common-factor/greate-common-factor.iml" filepath="$PROJECT_DIR$/greate-common-factor/greate-common-factor.iml" />
     </modules>
   </component>
 </project>
